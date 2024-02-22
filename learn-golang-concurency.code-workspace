@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "sync-task"
+		},
+		{
+			"path": "async-task"
+		},
+		{
+			"path": "join-point/no-joint-point"
+		},
+		{
+			"path": "join-point/waitgroup-joint-point"
+		},
+		{
+			"path": "join-point/channel-joint-point"
+		},
+		{
+			"name": "learn-golang-concurency",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
